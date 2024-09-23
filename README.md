@@ -1,110 +1,97 @@
 # User Report
 
-## Analysis & Suggestions for Mayo
+## User Analysis and Suggestions
 
-### **Profile Overview**
-- **Name**: Mayo
-- **Age**: 23
-- **Height**: 23.3 ft (likely an input error)
-- **Weight**: 23.3 lb (likely an input error)
-- **Gender**: Male
-- **Fitness Level**: Intermediate
-- **Exercise Frequency**: Once or twice per week
-- **Current Exercise Types**: Cardiovascular, Strength & Resistance Training, Group Exercise Classes, Yoga
-- **Available Exercise Days**: 5 days/week
-- **Daily Exercise Time**: 45 minutes
-- **Exercise Locations**: Mixed (Home and Gym)
-- **Home Exercise Equipment**: Barbell, Cable, Dumbbells, Foam Roller
-- **Medication**: None
-- **Exercise Barriers**: Lack of Facility, Illness/Injury, Motivation, Time
-- **Immediate Goals**: Gain Strength, Increase Endurance, Build Muscle, Longevity, General Health
-- **Pain Points**: Minor past head pain, rated 2/10
+### User Profile
+- **Name:** Mayo
+- **Email:** faizanmayo98@gmail.com
+- **Age:** 24
+- **Height:** 172.3 cm
+- **Weight:** 58.3 kg
+- **Gender:** Male
+- **Fitness Level:** Intermediate
+- **Exercise Frequency:** Once or twice per week
+- **Current Exercise Types:** Cardiovascular, Strength & Resistance Training, Group Exercise Classes, Yoga
+- **Available Exercise Days:** 5
+- **Daily Exercise Time:** 45 minutes
+- **Exercise Locations:** Mixed (Home and Gym)
+- **Home Exercise Equipment:** Barbell, Cable, Dumbbells, Foam Roller
+- **Resting Heart Rate:** 108 bpm
+- **Exercise Barriers:** Lack of Facility, Illness/Injury, Motivation, Time
+- **Immediate Goals:** Gain Strength, Increase Endurance, Build Muscle, Longevity, General Health
+- **Pain Points:** Past minor head pain (not an injury or surgery)
 
-### **Goals and Recommendations**
+### Medication
+- **Taking Medication Specific to Disease:** No
+- **Medication Detail:** None
 
-#### **Immediate Goals**
-1. **Gain Strength**
-2. **Increase Endurance**
-3. **Build Muscle**
-4. **Longevity**
-5. **General Health**
+### Health Considerations
+- The resting heart rate is on the higher side (108 bpm). This should be monitored, and Mayo should consider consulting a healthcare professional to rule out any underlying conditions.
 
-### **Exercise Plan**
+### Conflict Check
+- **Medications:** None reported; therefore, no conflicts.
 
-#### **Frequency (F)**
-- **Current**: 1-2 times per week
-- **Recommendation**: Increase to 3-5 times per week as per ACSM guidelines to align with your goals.
+### Fitness Plan
+#### Warm-Up
+- **Time:** 5-10 minutes
+- **Activities:** Light cardiovascular activity (e.g., treadmill walking at 4 mph), dynamic stretching.
 
-#### **Intensity (I)**
-- **Recommendation**: 
-  - **Cardiovascular**: 60-90% Max Heart Rate (MHR)
-  - **Strength Training**: Moderate to heavy weights (60-80% of 1RM)
-  - **Yoga**: Focus on flexibility and balance
+#### Workout Plan (5 Days/Week)
+1. **Day 1: Cardiovascular Training**
+   - **Activity:** Treadmill Jogging
+   - **Intensity:** 8 METs (5 mph)
+   - **Duration:** 45 minutes
+   - **Calories Burned:** `8 METs * 58.3 kg * (45/60) hours = 349.8 kcal`
 
-#### **Time (T)**
-- **Current**: 45 minutes/session
-- **Recommendation**: Maintain the 45 minutes per session, but consider:
-  - **Warm-Up**: 5-10 minutes
-  - **Main Workout**: 30-35 minutes
-  - **Cool Down**: 5 minutes
+2. **Day 2: Strength & Resistance Training**
+   - **Activity:** Weight Lifting (Moderate)
+   - **Intensity:** 6 METs
+   - **Duration:** 45 minutes
+   - **Calories Burned:** `6 METs * 58.3 kg * (45/60) hours = 262.35 kcal`
+   - **Equipment:** Barbell, Dumbbells, Cable
 
-#### **Type (T)**
-- **Current**: Cardiovascular, Strength & Resistance Training, Group Exercise Classes, Yoga
-- **Recommendation**: Continue with a balanced routine:
-  - **Cardiovascular**: 2 days/week (e.g., running, cycling)
-  - **Strength Training**: 2 days/week (e.g., weight lifting)
-  - **Yoga/Group Classes**: 1 day/week for flexibility and mental well-being
+3. **Day 3: Group Exercise Class**
+   - **Activity:** BodyPump or Aerobics Class
+   - **Intensity:** 5.5 - 6 METs
+   - **Duration:** 45 minutes
+   - **Calories Burned:** `5.5 METs * 58.3 kg * (45/60) hours = 242.64 kcal`
 
-### **Exercise Specifics**
+4. **Day 4: Yoga**
+   - **Activity:** Vinyasa Yoga
+   - **Intensity:** 3.5 METs
+   - **Duration:** 45 minutes
+   - **Calories Burned:** `3.5 METs * 58.3 kg * (45/60) hours = 153.87 kcal`
 
-#### **Cardiovascular**
-- **Effective with**: Running, Cycling, Rowing
-- **Intensity**: 60-90% MHR
-- **Duration**: 20-30 minutes
+5. **Day 5: High-Intensity Interval Training (HIIT)**
+   - **Activity:** HIIT session
+   - **Intensity:** 10 METs
+   - **Duration:** 30 minutes
+   - **Calories Burned:** `10 METs * 58.3 kg * (30/60) hours = 291.5 kcal`
 
-#### **Strength Training**
-- **Effective with**: Barbell, Dumbbells, Cable
-- **Intensity**: 60-80% of 1RM
-- **Reps/Sets**: 8-12 reps, 3-4 sets
-- **Exercises**: Squats, Deadlifts, Bench Press, Rows
+#### Cool Down
+- **Time:** At least 5 minutes
+- **Activities:** Light stretching, gradually reducing intensity.
 
-#### **Yoga**
-- **Types**: Hatha, Vinyasa
-- **Benefits**: Improves flexibility, balance, and reduces stress
+### Total Calories Burned Per Week
+- **Calculation:** 
+  - Day 1: 349.8 kcal
+  - Day 2: 262.35 kcal
+  - Day 3: 242.64 kcal
+  - Day 4: 153.87 kcal
+  - Day 5: 291.5 kcal
+  - **Total:** 1300.16 kcal
 
-### **Addressing Barriers**
+### Intensity Monitoring
+- **Target Heart Rate (THR):** Using the Karvonen Formula:
+  - **Max Heart Rate (MHR):** 220 - Age = 196 bpm
+  - **THR Calculation (Assuming 60-90% intensity):**
+    - Lower Bound: `THR = (196 - 108) * 0.60 + 108 = 149.6 bpm`
+    - Upper Bound: `THR = (196 - 108) * 0.90 + 108 = 181.8 bpm`
 
-#### **Lack of Facility**
-- **Solution**: Utilize home equipment (Barbell, Dumbbells, Cable) for strength training and online resources for guided workouts.
+### Recommendations
+- **Stay Hydrated:** Ensure to drink plenty of water before, during, and after workouts.
+- **Monitor Heart Rate:** Keep an eye on heart rate during exercises, especially with a high resting heart rate.
+- **Consult a Healthcare Professional:** Given the high resting heart rate, it is advisable to seek medical advice to rule out any underlying conditions.
+- **Gradual Progression:** Gradually increase exercise duration and intensity to avoid injury and ensure sustainable progress.
 
-#### **Illness/Injury**
-- **Solution**: Consult a physician if experiencing pain. Modify exercises to avoid aggravating injuries.
-
-#### **Motivation**
-- **Solution**: Set SMART goals, track progress, and consider working out with a partner or joining group classes.
-
-#### **Time**
-- **Solution**: Plan workouts in advance, opt for high-intensity interval training (HIIT) for efficiency.
-
-### **Monitoring and Progression**
-
-#### **Initial Conditioning Stage**
-- **Duration**: 4-6 weeks
-- **Intensity**: 40-60% of VO2 MAX
-
-#### **Improvement Stage**
-- **Duration**: 4-8 months
-- **Intensity**: 50-85% of VO2 MAX
-- **Progression**: Increase duration no more than 20% each week
-
-#### **Maintenance Stage**
-- **Goal**: Maintain fitness levels and continue progressing
-
-### **Pain Management**
-- **Head Pain**: Since it's past and minor, ensure proper hydration and avoid exercises that might trigger it.
-
-### **Final Notes**
-- **No Medication Conflicts**: Currently, no medications are reported.
-- **Accuracy of Measurements**: Recheck height and weight for accurate planning.
-
-By following this tailored plan, Mayo can effectively work towards his immediate goals and overcome barriers. Adjustments can be made based on progress and any new challenges that arise.
+Overall, Mayo's workout plan is balanced and tailored to his goals and current fitness level, while also considering his available equipment and exercise preferences.
