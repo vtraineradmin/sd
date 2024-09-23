@@ -1,118 +1,89 @@
 # User Report
 
-### User Profile Summary
+# Vtrainer AI Analysis and Suggestions for Mayo
 
-- **Name:** Mayo
+## User Information
+- **Full Name:** Mayo
+- **Email:** faizanmayo98@gmail.com
 - **Age:** 24
 - **Height:** 172.3 cm
 - **Weight:** 58.3 kg
 - **Gender:** Male
 - **Fitness Level:** Intermediate
 - **Exercise Frequency:** Once or twice per week
-- **Current Exercise Types:** Cardiovascular, Strength & Resistance Training, Group Exercise Classes, Yoga
-- **Available Exercise Days:** 5 days
+- **Exercise Types:** Cardiovascular, Strength & Resistance Training, Group Exercise Classes, Yoga
+- **Available Exercise Days:** 4 days
 - **Daily Exercise Time:** 45 minutes
-- **Exercise Locations:** Mixed
-- **Equipment Available:** Barbell, Cable, Dumbbells, Foam Roller
+- **Exercise Locations:** Mixed (Home and Gym)
+- **Home Exercise Equipment:** Barbell, Cable, Dumbbells, Foam Roller
 - **Resting Heart Rate:** 108 bpm
-- **Exercise Barriers:** Lack of Facility, Illness/Injury, Motivation, Time
 - **Immediate Goals:** Gain Strength, Increase Endurance, Build Muscle, Longevity, General Health
-- **Pain Points:** Minor past head pain
+- **Exercise Barriers:** Lack of Facility, Illness/Injury, Motivation, Time
+- **Pain Points:** Minor past head pain (pain rating: 2)
 
-### Medication Analysis
-- **Taking Medication Specific to Disease:** No
-- **Medications:** None
+## Medication and Conflict Analysis
+- **Taking Medication:** No
+- **Medication Detail:** N/A
 
-No conflicts with medications are noted since the user is not taking any.
+There are no conflicts with medications since the user is not currently taking any.
 
-### Exercise Recommendations
+## Workout Plan for 4 Days
 
-#### Cardiovascular Training
-- **Frequency:** 3-5 times per week
-- **Intensity:** 
-  - **Using Karvonen Formula:** 
-    - Max Heart Rate (MHR) = 220 - Age = 220 - 24 = 196 bpm
-    - Target Heart Rate (THR) = (MHR - Resting Heart Rate) x Intensity + Resting Heart Rate
-    - Example for 60% intensity: THR = (196 - 108) x 0.6 + 108 = 148 bpm
-  - **METS for Running on Treadmill:**
-    - 6 mph: 10.0 METs
-    - 5 mph: 8.0 METs
-    - 4 mph: 5.0 METs
-  
-- **Time:** 20-60 minutes
-- **Type:** Treadmill running, jogging, walking
+### Day 1: Cardiovascular and Strength Training
+- **Warm-up:** 5-10 minutes of light jogging or dynamic stretching
+- **Cardio:** Treadmill Running at 6 mph (10.0 METs), Duration: 20 minutes
+  - **Calories Burned Calculation:** 
+    - Calories = METs * Weight (kg) * Duration (hrs)
+    - Calories = 10.0 * 58.3 * (20/60) = 194.33 kcal
+- **Strength Training:** 
+  - Barbell Squats (Moderate Intensity, 6.0 METs), Duration: 25 minutes
+  - **Calories Burned Calculation:**
+    - Calories = 6.0 * 58.3 * (25/60) = 145.75 kcal
+- **Cool Down:** 5-10 minutes of static stretching
 
-#### Strength Training
-- **Frequency:** 2-3 times per week
-- **Intensity:** 
-  - Light Weight Lifting: 3.0 METs
-  - Moderate Weight Lifting: 6.0 METs
-  - Heavy Weight Lifting: 8.0 METs
-- **Time:** 15-45 minutes
-- **Type:** Barbell, dumbbells, cable exercises
+### Day 2: Group Exercise Classes and Yoga
+- **Warm-up:** 5-10 minutes of light aerobic activity
+- **Group Exercise Class:** Zumba (6.5 METs), Duration: 30 minutes
+  - **Calories Burned Calculation:**
+    - Calories = 6.5 * 58.3 * (30/60) = 189.98 kcal
+- **Yoga:** Vinyasa Yoga (3.5 METs), Duration: 15 minutes
+  - **Calories Burned Calculation:**
+    - Calories = 3.5 * 58.3 * (15/60) = 50.94 kcal
+- **Cool Down:** 5-10 minutes of deep breathing exercises
 
-#### Group Exercise Classes
-- **Frequency:** 1-2 times per week
-- **Intensity:** 
-  - Aerobics Class: 5.5 METs
-  - Yoga (Vinyasa): 3.5 METs
-- **Time:** 45 minutes
-- **Type:** Spinning, Zumba, Aerobics, Yoga
+### Day 3: Cardio and Resistance Training
+- **Warm-up:** 5-10 minutes of jumping jacks or dynamic stretching
+- **Cardio:** Elliptical Trainer (High Intensity, 8.0 METs), Duration: 20 minutes
+  - **Calories Burned Calculation:**
+    - Calories = 8.0 * 58.3 * (20/60) = 155.47 kcal
+- **Resistance Training:** 
+  - Dumbbell Bench Press (Moderate Intensity, 6.0 METs), Duration: 25 minutes
+  - **Calories Burned Calculation:**
+    - Calories = 6.0 * 58.3 * (25/60) = 145.75 kcal
+- **Cool Down:** 5-10 minutes of foam rolling
 
-### Weekly Workout Plan (5 Days)
+### Day 4: High-Intensity Interval Training (HIIT)
+- **Warm-up:** 5-10 minutes of light jogging or dynamic stretching
+- **HIIT Session:** 
+  - Sprint Intervals (12.0 METs), 30 seconds sprint, 1 minute rest (Repeat for 20 minutes)
+  - **Calories Burned Calculation:**
+    - Calories = 12.0 * 58.3 * (20/60) = 233.2 kcal
+- **Strength Training:** 
+  - Bodyweight Exercises (Push-ups, Sit-ups, etc., 4.0 METs), Duration: 25 minutes
+  - **Calories Burned Calculation:**
+    - Calories = 4.0 * 58.3 * (25/60) = 97.17 kcal
+- **Cool Down:** 5-10 minutes of static stretching
 
-**Day 1: Cardiovascular Training**
-- **Warm-up:** 5-10 minutes dynamic stretching
-- **Main Workout:** 30 minutes treadmill running at 6 mph (10.0 METs)
-- **Cool Down:** 5 minutes walking
+## Additional Recommendations
+- **Monitoring Exercise Intensity:** Utilize the Karvonen Formula for Target Heart Rate (THR):
+  - Formula: THR = (MHR - RHR) x Intensity + RHR
+  - MHR (Maximum Heart Rate) = 220 - Age = 196 bpm
+  - Example for 70% intensity: THR = (196 - 108) x 0.7 + 108 = 159.4 bpm
 
-**Day 2: Strength Training**
-- **Warm-up:** 5-10 minutes light cardio
-- **Main Workout:**
-  - Barbell Squats (Moderate): 6.0 METs
-  - Dumbbell Bench Press: 6.0 METs
-  - Cable Rows: 6.0 METs
-- **Cool Down:** 5 minutes stretching
+- **Motivation and Consistency:** Given the barrier of motivation, consider joining fitness groups or classes to stay engaged.
 
-**Day 3: Group Exercise Class**
-- **Warm-up:** 5-10 minutes dynamic stretching
-- **Main Workout:** 45 minutes Zumba (6.5 METs)
-- **Cool Down:** 5 minutes stretching
+- **Time Management:** Optimize workout times and integrate quick, effective routines like HIIT to maximize results within limited availability.
 
-**Day 4: Rest or Light Activity**
+- **Pain Management:** Since the user has minor past head pain, ensure proper warm-up and avoid exercises that may strain the head or neck.
 
-**Day 5: Cardiovascular Training**
-- **Warm-up:** 5-10 minutes dynamic stretching
-- **Main Workout:** 30 minutes treadmill walking at 4 mph (5.0 METs)
-- **Cool Down:** 5 minutes walking
-
-**Day 6: Strength Training**
-- **Warm-up:** 5-10 minutes light cardio
-- **Main Workout:**
-  - Barbell Deadlifts (Moderate): 6.0 METs
-  - Dumbbell Shoulder Press: 6.0 METs
-  - Cable Tricep Extensions: 6.0 METs
-- **Cool Down:** 5 minutes stretching
-
-**Day 7: Group Exercise Class or Yoga**
-- **Warm-up:** 5-10 minutes dynamic stretching
-- **Main Workout:** 45 minutes Yoga (Vinyasa) (3.5 METs)
-- **Cool Down:** 5 minutes stretching
-
-### Calculations for Energy Expenditure
-- **Example for Treadmill Running (6 mph)**
-  - MET: 10.0
-  - Duration: 30 minutes (0.5 hours)
-  - Weight: 58.3 kg
-  - Calories Burned: 10.0 METs * 58.3 kg * 0.5 hours = 291.5 kcal
-
-### Recommendations for Improvements
-- **Increase Exercise Frequency:** Gradually increase to 3-5 times per week as per ACSM guidelines.
-- **Monitor Intensity:** Use heart rate monitor to stay within recommended intensity zones.
-- **Incorporate Variety:** Balance between strength, cardio, and flexibility exercises to prevent overtraining.
-- **Address Barriers:** Develop strategies to overcome barriers like time management and motivation.
-
-### Final Notes
-- **No medication conflicts detected.**
-- **Ensure to follow proper warm-up and cool down routines.**
-- **Track progress and adjust workout intensity as fitness improves.**
+By following this structured and balanced workout plan, Mayo can effectively work towards his fitness goals, gain strength, increase endurance, build muscle, and improve overall health.
