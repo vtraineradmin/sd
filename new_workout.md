@@ -10,8 +10,8 @@
 - **Taking Medication:** No
 - **Medication Detail:** N/A
 - **Conflict Analysis:** 
-  - No conflicts between medication and exercises as the user is not taking any medication.
-  - Specific Recommendations: Given the high resting heart rate (108 bpm), Mayo should monitor exercise intensity closely and ensure proper warm-up and cool-down periods to avoid cardiovascular strain.
+  - No medication conflicts as the user is not currently taking any medications.
+  - Specific recommendations based on health conditions or resting heart rate: The user's resting heart rate is relatively high (108 bpm), so it's important to monitor heart rate closely during workouts and stay within safe intensity levels.
 
 ---
 
@@ -21,15 +21,14 @@
 
 ### Day 1: Strength Training & Cardiovascular Endurance
 - **Focus:** Full-body strength, light cardio
-- **Location:** Gym
-- **Time:** Monday, 7:00 PM
+- **Location:** Home
+- **Time:** Monday, 6:30 PM
 
 #### Warm-up (10 minutes)
-- **Exercise Type:** Light jogging on the treadmill or dynamic stretching
+- **Exercise Type:** Treadmill Walking at 4 mph (5.0 METs)
 - **Intensity:** Low (RPE: 3)
-- **METs:** 5
-- **Calories Burned:** ~43 kcal
-- **Target Heart Rate (THR):** 50-60% of MHR
+- **Calories Burned:** ~24 kcal
+- **Target Heart Rate (THR):** 50-60% of MHR (See THR Calculation Below)
 
 #### Strength Exercises (30 minutes)
 1. **Barbell Squats**
@@ -44,7 +43,7 @@
    - **Reps:** 4 sets x 10 reps
    - **Intensity:** Moderate (RPE: 6)
    - **METs:** 5
-   - **Calories Burned:** ~87 kcal
+   - **Calories Burned:** ~88 kcal
    - **THR:** 60-70% of MHR
    - **Muscle Groups:** Chest, Triceps
 
@@ -52,7 +51,7 @@
    - **Reps:** 4 sets x 10 reps
    - **Intensity:** Moderate (RPE: 6)
    - **METs:** 4.5
-   - **Calories Burned:** ~78 kcal
+   - **Calories Burned:** ~79 kcal
    - **THR:** 60-70% of MHR
    - **Muscle Groups:** Back, Biceps
 
@@ -60,67 +59,67 @@
 - **Exercise Type:** Jump Rope
 - **Intensity:** Moderate (RPE: 6)
 - **METs:** 10
-- **Calories Burned:** ~48 kcal
+- **Calories Burned:** ~49 kcal
 
 ---
 
 #### FITT Principle Summary for Day 1
-- **Frequency (F):** 1 session (Monday, 7:00 PM)
+- **Frequency (F):** 1 session (Monday, 6:30 PM)
 - **Intensity (I):** Moderate (RPE: 6, Target HR: 60-70% of MHR)
 - **Time (T):** 45 minutes total (10 minutes warm-up, 30 minutes strength, 5 minutes cardio)
 - **Type (T):** Full-body strength training with light cardio
 
 #### Total Day 1 Summary
 - **Total METs (Day 1):** 30.5 METs
-- **Total Calories Burned (Day 1):** ~361 kcal
+- **Total Calories Burned (Day 1):** ~345 kcal
 
 ---
 
 ### Day 2: Group Exercise Classes and Yoga
-- **Focus:** Group classes and flexibility
+- **Focus:** Flexibility and Group Exercise
 - **Location:** Gym
-- **Time:** Wednesday, 7:00 PM
+- **Time:** Wednesday, 6:40 PM
 
 #### Warm-up (10 minutes)
 - **Exercise Type:** Light aerobic activity, dynamic stretching
 - **Intensity:** Low (RPE: 3)
 - **METs:** 3
-- **Calories Burned:** ~26 kcal
+- **Calories Burned:** ~15 kcal
 - **THR:** 50-60% of MHR
 
 #### Main Exercises (30 minutes)
 1. **Spinning Class**
-   - **Duration:** 30 minutes
    - **Intensity:** Moderate (RPE: 6)
    - **METs:** 7
-   - **Calories Burned:** ~204 kcal
+   - **Calories Burned:** ~123 kcal
    - **THR:** 60-70% of MHR
+   - **Muscle Groups:** Legs, Core
 
-2. **Yoga (Vinyasa)**
-   - **Duration:** 30 minutes
-   - **Intensity:** Low (RPE: 4)
+2. **Yoga Vinyasa**
+   - **Intensity:** Low (RPE: 3)
    - **METs:** 3.5
-   - **Calories Burned:** ~61 kcal
+   - **Calories Burned:** ~61.5 kcal
    - **THR:** 50-60% of MHR
+   - **Muscle Groups:** Full body, Flexibility
 
 #### FITT Principle Summary for Day 2
-- **Frequency (F):** 1 session (Wednesday, 7:00 PM)
+- **Frequency (F):** 1 session (Wednesday, 6:40 PM)
 - **Intensity (I):** Low to Moderate (RPE: 3-6, Target HR: 50-70% of MHR)
 - **Time (T):** 40 minutes total (10 minutes warm-up, 30 minutes main exercises)
 - **Type (T):** Group class and yoga
 
 ---
 
-### Day 3: Strength Training & Cardiovascular
-- **Focus:** Upper body strength and cardio
+### Day 3: Strength Training and Cardio
+- **Focus:** Upper Body Strength and Cardiovascular Endurance
 - **Location:** Home
-- **Time:** Friday, 7:00 PM
+- **Time:** Friday, 6:50 PM
 
 #### Warm-up (10 minutes)
 - **Exercise Type:** Jumping jacks, dynamic stretching
 - **Intensity:** Moderate (RPE: 5)
-- **METs:** 3.5
-- **Calories Burned:** ~30 kcal
+- **METs:** 5
+- **Calories Burned:** ~24 kcal
 - **THR:** 50-60% of MHR
 
 #### Main Exercises (30 minutes)
@@ -128,27 +127,27 @@
    - **Reps:** 4 sets x 10 reps
    - **Intensity:** Moderate (RPE: 6)
    - **METs:** 5
-   - **Calories Burned:** ~87 kcal
+   - **Calories Burned:** ~88 kcal
    - **THR:** 60-70% of MHR
    - **Muscle Groups:** Shoulders, Triceps
 
-2. **Barbell Deadlifts**
+2. **Cable Tricep Pushdowns**
    - **Reps:** 4 sets x 10 reps
    - **Intensity:** Moderate (RPE: 6)
-   - **METs:** 6
-   - **Calories Burned:** ~105 kcal
+   - **METs:** 4
+   - **Calories Burned:** ~70 kcal
    - **THR:** 60-70% of MHR
-   - **Muscle Groups:** Back, Legs
+   - **Muscle Groups:** Triceps
 
-#### Cardio (5 minutes)
-- **Exercise Type:** Stationary Biking
-- **Intensity:** Moderate (RPE: 6)
-- **METs:** 8
-- **Calories Burned:** ~19 kcal
+#### Cardio (10 minutes)
+- **Exercise Type:** Elliptical Low Intensity
+- **Intensity:** Moderate (RPE: 5)
+- **METs:** 5
+- **Calories Burned:** ~24 kcal
 
 #### FITT Principle Summary for Day 3
-- **Frequency (F):** 1 session (Friday, 7:00 PM)
-- **Intensity (I):** Moderate (RPE: 6, Target HR: 60-70% of MHR)
+- **Frequency (F):** 1 session (Friday, 6:50 PM)
+- **Intensity (I):** Moderate (RPE: 5-6, Target HR: 60-70% of MHR)
 - **Time (T):** 40 minutes total (10 minutes warm-up, 30 minutes main exercises)
 - **Type (T):** Strength and cardio
 
@@ -156,14 +155,14 @@
 
 ### Day 4: High-Intensity Interval Training (HIIT)
 - **Focus:** Full-body workout with alternating high and low-intensity exercises
-- **Location:** Gym or Outdoor
+- **Location:** Gym
 - **Time:** Sunday, 7:00 PM
 
 #### Warm-up (10 minutes)
 - **Exercise Type:** Light jogging or dynamic stretching
 - **Intensity:** Low (RPE: 3)
 - **METs:** 5
-- **Calories Burned:** ~43 kcal
+- **Calories Burned:** ~24 kcal
 - **THR:** 50-60% of MHR
 
 #### HIIT Session (20 minutes)
@@ -173,12 +172,12 @@
 - **Calories Burned:** ~233 kcal
 - **THR:** 70-80% of MHR
 
-#### Strength Training (20 minutes)
+#### Strength Training (10 minutes)
 1. **Bodyweight Exercises** (e.g., Push-ups, Sit-ups)
    - **Reps:** 4 sets x 15 reps
    - **Intensity:** Moderate (RPE: 6)
    - **METs:** 4
-   - **Calories Burned:** ~77 kcal
+   - **Calories Burned:** ~39 kcal
    - **THR:** 60-70% of MHR
 
 #### FITT Principle Summary for Day 4
@@ -191,11 +190,11 @@
 
 ## Target Heart Rate (THR) Using Karvonen Formula
 - **Karvonen Formula for THR:**
-  - **Formula:** THR = (MHR - RHR) x Intensity + RHR
-  - **Maximum Heart Rate (MHR):** 220 - 24 = 196 bpm
+  - **Formula:** THR = (MHR - RHR) × Intensity + RHR
+  - **Maximum Heart Rate (MHR):** 220 - Age = 196 bpm
   - **Resting Heart Rate (RHR):** 108 bpm
   - **Example Calculation:**
-    - For 70% Intensity: THR = (196 - 108) x 0.7 + 108 = 160 bpm
+    - For 70% Intensity: THR = (196 - 108) × 0.7 + 108 = 159.6 bpm
 
 ---
 
@@ -206,13 +205,11 @@
 ---
 
 ### Pain and Injury Considerations
-- Given the past minor head pain, ensure proper warm-ups and avoid movements that could aggravate any previous injuries, especially in the head or neck region.
+- Given past pain in the head, ensure proper warm-ups and avoid movements that could aggravate any previous injuries, especially in the head or neck region.
 
 ---
 
 ### Overall Summary
-- **Total Calories Burned (4 Days):** ~1326 kcal
-- **Total METs (4 Days):** 109 METs
-- By following this structured workout plan, you can achieve balanced strength, endurance, and flexibility while managing time effectively.
-
----
+- **Total Calories Burned (4 Days):** ~1170 kcal
+- **Total METs (4 Days):** 141 METs
+- By following this structured workout plan, you
