@@ -1,4 +1,6 @@
- 
+# User Report
+
+```json
 {
   "user_workout_plan": {
     "user_name": "Mayo",
@@ -7,27 +9,27 @@
       "medication_detail": ["Atenolol"],
       "conflict_analysis": [
         {
-          "conflict_details": "Atenolol is a beta-blocker that can lower heart rate and blood pressure. It may affect the ability to reach higher heart rates during exercise.",
-          "specific_recommendations": "Monitor heart rate closely using the Karvonen Formula. Opt for moderate-intensity exercises and avoid very high-intensity workouts to prevent excessive cardiovascular strain."
+          "conflict_details": "Atenolol is a beta-blocker that can affect heart rate and exercise tolerance. It may mask signs of low blood sugar and reduce the maximum heart rate achievable during exercise.",
+          "specific_recommendations": "Monitor heart rate closely using the Karvonen Formula, and avoid high-intensity exercises that can lead to excessive strain. Ensure a gradual warm-up and cool-down to prevent sudden changes in heart rate."
         }
       ]
     },
-    "workout_plan_for_4_days": [
+    "workout_plan_for_3_days": [
       {
         "day": "Day 1",
         "workout_name": "Strength Training & Cardiovascular Endurance",
         "focus": "Full-body strength, light cardio",
-        "location": "Gym",
-        "time": "Monday at 7:00 PM",
+        "location": "Home",
+        "time": "Monday, 7:00 PM",
         "exercises": [
           {
             "exercise": "Warm-up",
             "duration": "10 minutes",
-            "exercise_type": "Treadmill Walking",
+            "exercise_type": "Treadmill Walking at 4 mph",
             "speed": "4 mph",
             "intensity": "Low (RPE: 3)",
-            "mets": 5.0,
-            "calories_burned": "21.83 kcal",
+            "mets": 5,
+            "calories_burned": "21.5 kcal",
             "thr": "50-60% of MHR"
           },
           {
@@ -36,32 +38,21 @@
             "sets": 4,
             "reps": 10,
             "intensity": "Moderate (RPE: 6)",
-            "mets": 6.0,
+            "mets": 6,
             "duration": "10 minutes",
             "calories_burned": "58.3 kcal",
             "thr": "60-70% of MHR",
             "muscle_groups": ["Legs", "Glutes"]
           },
           {
-            "exercise": "Dumbbell Bench Press",
-            "exercise_type": "Strength Exercise",
-            "sets": 3,
-            "reps": 12,
-            "intensity": "Moderate (RPE: 6)",
-            "mets": 6.0,
-            "duration": "8 minutes",
-            "calories_burned": "46.64 kcal",
-            "thr": "60-70% of MHR",
-            "muscle_groups": ["Chest", "Triceps"]
-          },
-          {
             "exercise": "Jump Rope",
             "exercise_type": "Cardio",
+            "speed": "Moderate",
             "duration": "5 minutes",
             "intensity": "Moderate (RPE: 6)",
-            "mets": 10.0,
-            "calories_burned": "48.58 kcal",
-            "thr": "60-70% of MHR"
+            "mets": 8,
+            "calories_burned": "38.9 kcal",
+            "thr": "50-60% of MHR"
           },
           {
             "exercise": "Cool Down",
@@ -69,124 +60,58 @@
             "exercise_type": "Light stretching",
             "intensity": "Low (RPE: 2)",
             "mets": 2.5,
-            "calories_burned": "21.83 kcal",
+            "calories_burned": "21.5 kcal",
             "thr": "50-60% of MHR"
           }
         ],
         "fitt_principle_summary": {
-          "frequency": "1 session (Monday, 7:00 PM)",
+          "frequency": "1 session (Monday, 7 PM)",
           "intensity": "Moderate (RPE: 6, Target HR: 60-70% of MHR)",
           "time": "45 minutes total",
           "type": "Full-body strength training with light cardio"
         },
         "total_day_summary": {
-          "total_mets": 29.5,
-          "total_calories_burned": "197.18 kcal"
+          "total_mets": 21.5,
+          "total_calories_burned": "140.2 kcal"
         }
       },
       {
         "day": "Day 2",
-        "workout_name": "Cardiovascular Focus",
-        "focus": "Cardio and Endurance",
-        "location": "Gym",
-        "time": "Wednesday at 7:00 PM",
-        "exercises": [
-          {
-            "exercise": "Warm-up",
-            "duration": "10 minutes",
-            "exercise_type": "Elliptical Low Intensity",
-            "intensity": "Low (RPE: 3)",
-            "mets": 5.0,
-            "calories_burned": "21.83 kcal",
-            "thr": "50-60% of MHR"
-          },
-          {
-            "exercise": "Treadmill Jogging",
-            "exercise_type": "Cardio",
-            "speed": "5 mph",
-            "duration": "20 minutes",
-            "intensity": "Moderate (RPE: 6)",
-            "mets": 8.0,
-            "calories_burned": "93.28 kcal",
-            "thr": "60-70% of MHR"
-          },
-          {
-            "exercise": "Rowing Machine",
-            "exercise_type": "Cardio",
-            "duration": "10 minutes",
-            "intensity": "Moderate (RPE: 6)",
-            "mets": 7.0,
-            "calories_burned": "40.81 kcal",
-            "thr": "60-70% of MHR"
-          },
-          {
-            "exercise": "Cool Down",
-            "duration": "10 minutes",
-            "exercise_type": "Light stretching",
-            "intensity": "Low (RPE: 2)",
-            "mets": 2.5,
-            "calories_burned": "21.83 kcal",
-            "thr": "50-60% of MHR"
-          }
-        ],
-        "fitt_principle_summary": {
-          "frequency": "1 session (Wednesday, 7:00 PM)",
-          "intensity": "Moderate (RPE: 6, Target HR: 60-70% of MHR)",
-          "time": "45 minutes total",
-          "type": "Cardio and Endurance"
-        },
-        "total_day_summary": {
-          "total_mets": 22.5,
-          "total_calories_burned": "177.75 kcal"
-        }
-      },
-      {
-        "day": "Day 3",
-        "workout_name": "Strength Training & Flexibility",
-        "focus": "Upper-body strength, flexibility",
+        "workout_name": "Strength Training & Cardiovascular Endurance",
+        "focus": "Upper-body strength, light cardio",
         "location": "Home",
-        "time": "Friday at 7:00 PM",
+        "time": "Wednesday, 7:00 PM",
         "exercises": [
           {
             "exercise": "Warm-up",
             "duration": "10 minutes",
-            "exercise_type": "Foam Rolling",
+            "exercise_type": "Treadmill Walking at 4 mph",
+            "speed": "4 mph",
             "intensity": "Low (RPE: 3)",
-            "mets": 2.5,
-            "calories_burned": "10.92 kcal",
+            "mets": 5,
+            "calories_burned": "21.5 kcal",
             "thr": "50-60% of MHR"
           },
           {
-            "exercise": "Dumbbell Shoulder Press",
+            "exercise": "Dumbbell Bench Press",
             "exercise_type": "Strength Exercise",
             "sets": 4,
             "reps": 10,
             "intensity": "Moderate (RPE: 6)",
-            "mets": 6.0,
+            "mets": 6,
             "duration": "10 minutes",
             "calories_burned": "58.3 kcal",
             "thr": "60-70% of MHR",
-            "muscle_groups": ["Shoulders", "Triceps"]
+            "muscle_groups": ["Chest", "Arms"]
           },
           {
-            "exercise": "Cable Rows",
-            "exercise_type": "Strength Exercise",
-            "sets": 3,
-            "reps": 12,
+            "exercise": "Stationary Bike",
+            "exercise_type": "Cardio",
+            "speed": "Moderate",
+            "duration": "5 minutes",
             "intensity": "Moderate (RPE: 6)",
-            "mets": 6.0,
-            "duration": "8 minutes",
-            "calories_burned": "46.64 kcal",
-            "thr": "60-70% of MHR",
-            "muscle_groups": ["Back", "Biceps"]
-          },
-          {
-            "exercise": "Yoga Poses",
-            "exercise_type": "Flexibility",
-            "duration": "10 minutes",
-            "intensity": "Low (RPE: 2)",
-            "mets": 3.5,
-            "calories_burned": "20.36 kcal",
+            "mets": 4,
+            "calories_burned": "19.4 kcal",
             "thr": "50-60% of MHR"
           },
           {
@@ -195,57 +120,59 @@
             "exercise_type": "Light stretching",
             "intensity": "Low (RPE: 2)",
             "mets": 2.5,
-            "calories_burned": "10.92 kcal",
+            "calories_burned": "21.5 kcal",
             "thr": "50-60% of MHR"
           }
         ],
         "fitt_principle_summary": {
-          "frequency": "1 session (Friday, 7:00 PM)",
+          "frequency": "1 session (Wednesday, 7 PM)",
           "intensity": "Moderate (RPE: 6, Target HR: 60-70% of MHR)",
           "time": "45 minutes total",
-          "type": "Upper-body strength training with flexibility"
+          "type": "Upper-body strength training with light cardio"
         },
         "total_day_summary": {
-          "total_mets": 20.5,
-          "total_calories_burned": "147.14 kcal"
+          "total_mets": 17.5,
+          "total_calories_burned": "120.7 kcal"
         }
       },
       {
-        "day": "Day 4",
-        "workout_name": "Mixed Training",
-        "focus": "Combination of strength and cardio",
-        "location": "Gym",
-        "time": "Sunday at 7:00 PM",
+        "day": "Day 3",
+        "workout_name": "Strength Training & Cardiovascular Endurance",
+        "focus": "Full-body strength, light cardio",
+        "location": "Home",
+        "time": "Friday, 7:00 PM",
         "exercises": [
           {
             "exercise": "Warm-up",
             "duration": "10 minutes",
-            "exercise_type": "Treadmill Walking",
+            "exercise_type": "Treadmill Walking at 4 mph",
             "speed": "4 mph",
             "intensity": "Low (RPE: 3)",
-            "mets": 5.0,
-            "calories_burned": "21.83 kcal",
+            "mets": 5,
+            "calories_burned": "21.5 kcal",
             "thr": "50-60% of MHR"
           },
           {
-            "exercise": "Circuit Training",
-            "exercise_type": "Strength and Cardio",
-            "sets": 3,
-            "duration": "20 minutes",
+            "exercise": "Cable Rows",
+            "exercise_type": "Strength Exercise",
+            "sets": 4,
+            "reps": 10,
             "intensity": "Moderate (RPE: 6)",
-            "mets": 6.0,
-            "calories_burned": "69.96 kcal",
+            "mets": 6,
+            "duration": "10 minutes",
+            "calories_burned": "58.3 kcal",
             "thr": "60-70% of MHR",
-            "muscle_groups": ["Full body"]
+            "muscle_groups": ["Back", "Arms"]
           },
           {
-            "exercise": "Elliptical High Intensity",
+            "exercise": "Jump Rope",
             "exercise_type": "Cardio",
-            "duration": "10 minutes",
-            "intensity": "High (RPE: 8)",
-            "mets": 8.0,
-            "calories_burned": "46.64 kcal",
-            "thr": "70-75% of MHR"
+            "speed": "Moderate",
+            "duration": "5 minutes",
+            "intensity": "Moderate (RPE: 6)",
+            "mets": 8,
+            "calories_burned": "38.9 kcal",
+            "thr": "50-60% of MHR"
           },
           {
             "exercise": "Cool Down",
@@ -253,28 +180,28 @@
             "exercise_type": "Light stretching",
             "intensity": "Low (RPE: 2)",
             "mets": 2.5,
-            "calories_burned": "21.83 kcal",
+            "calories_burned": "21.5 kcal",
             "thr": "50-60% of MHR"
           }
         ],
         "fitt_principle_summary": {
-          "frequency": "1 session (Sunday, 7:00 PM)",
-          "intensity": "Moderate to High (RPE: 6-8, Target HR: 60-75% of MHR)",
+          "frequency": "1 session (Friday, 7 PM)",
+          "intensity": "Moderate (RPE: 6, Target HR: 60-70% of MHR)",
           "time": "45 minutes total",
-          "type": "Combination of strength and cardio"
+          "type": "Full-body strength training with light cardio"
         },
         "total_day_summary": {
           "total_mets": 21.5,
-          "total_calories_burned": "160.26 kcal"
+          "total_calories_burned": "140.2 kcal"
         }
       }
     ],
     "target_heart_rate": {
       "karvonen_formula": {
         "formula": "THR = (MHR - RHR) × Intensity + RHR",
-        "mhr": "220 - Age = 196 bpm",
+        "mhr": "220 - 24 = 196 bpm",
         "rhr": "108 bpm",
-        "example_calculation": "For 70% Intensity: THR = (196 - 108) × 0.7 + 108 = 160.6 bpm"
+        "example_calculation": "For 70% Intensity: THR = (196 - 108) × 0.7 + 108 = 163.6 bpm"
       }
     },
     "motivation_and_time_management": {
@@ -285,10 +212,10 @@
       "details": "Ensure proper warm-ups and avoid movements that could aggravate any previous injuries, especially in the head or neck region."
     },
     "overall_summary": {
-      "total_calories_burned": "682.33 kcal",
-      "total_mets": "94.0 METs",
+      "total_calories_burned": "401.1 kcal",
+      "total_mets": "60.5 METs",
       "summary": "By following this structured workout plan, you can achieve balanced strength, endurance, and flexibility while managing time effectively."
     }
   }
 }
- 
+```
