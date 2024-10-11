@@ -1,0 +1,256 @@
+# User Report
+
+```markdown
+{
+  "user_workout_plan": {
+    "user_name": "Mayo",
+    "medication_and_conflict_analysis": {
+      "taking_medication": "Yes",
+      "medication_detail": "Atenolol",
+      "conflict_analysis": [
+        {
+          "conflict_details": "Atenolol is a beta-blocker that can lower heart rate and may affect exercise performance by reducing maximum heart rate.",
+          "specific_recommendations": "Monitor exercise intensity using Rating of Perceived Exertion (RPE) or the Talk Test instead of heart rate. Avoid high-intensity exercises that could cause undue strain."
+        }
+      ]
+    },
+    "workout_plan_for_4_days": [
+      {
+        "day": "Day 1",
+        "workout_name": "Strength Training & Cardiovascular Endurance",
+        "focus": "Full-body strength, light cardio",
+        "location": "Gym",
+        "time": "Monday, 6:30 PM",
+        "warm_up": {
+          "duration": "10 minutes",
+          "exercise_type": "Treadmill Walking at 4 mph",
+          "intensity": "Low (RPE: 3)",
+          "mets": 5,
+          "calories_burned": "21 kcal",
+          "target_heart_rate": "50-60% of MHR"
+        },
+        "strength_exercises": [
+          {
+            "exercise": "Barbell Squats",
+            "reps": "4 sets x 10 reps",
+            "intensity": "Moderate (RPE: 6)",
+            "mets": 6,
+            "calories_burned": "70 kcal",
+            "thr": "60-70% of MHR",
+            "muscle_groups": ["Legs", "Glutes"]
+          },
+          {
+            "exercise": "Dumbbell Bench Press",
+            "reps": "4 sets x 10 reps",
+            "intensity": "Moderate (RPE: 6)",
+            "mets": 5,
+            "calories_burned": "60 kcal",
+            "thr": "60-70% of MHR",
+            "muscle_groups": ["Chest", "Triceps"]
+          },
+          {
+            "exercise": "Cable Rows",
+            "reps": "4 sets x 10 reps",
+            "intensity": "Moderate (RPE: 6)",
+            "mets": 4.5,
+            "calories_burned": "50 kcal",
+            "thr": "60-70% of MHR",
+            "muscle_groups": ["Back", "Biceps"]
+          }
+        ],
+        "cardio": {
+          "exercise_type": "Stationary Bike",
+          "intensity": "Moderate (RPE: 6)",
+          "mets": 4,
+          "calories_burned": "50 kcal"
+        },
+        "fitt_principle_summary": {
+          "frequency": "1 session (e.g., Monday, 6:30 PM)",
+          "intensity": "Moderate (RPE: 6, Target HR: 60-70% of MHR)",
+          "time": "45 minutes total",
+          "type": "Full-body strength training with light cardio"
+        },
+        "total_day_summary": {
+          "total_mets": 24.5,
+          "total_calories_burned": "251 kcal"
+        }
+      },
+      {
+        "day": "Day 2",
+        "workout_name": "Cardio and Flexibility",
+        "focus": "Cardiovascular endurance, flexibility",
+        "location": "Home",
+        "time": "Wednesday, 6:30 PM",
+        "warm_up": {
+          "duration": "10 minutes",
+          "exercise_type": "Jump Rope",
+          "intensity": "Low (RPE: 3)",
+          "mets": 8,
+          "calories_burned": "39 kcal",
+          "target_heart_rate": "50-60% of MHR"
+        },
+        "cardio_exercises": [
+          {
+            "exercise": "Elliptical (low intensity)",
+            "duration": "20 minutes",
+            "intensity": "Moderate (RPE: 6)",
+            "mets": 5,
+            "calories_burned": "58 kcal",
+            "thr": "60-70% of MHR"
+          }
+        ],
+        "flexibility_exercises": [
+          {
+            "exercise": "Yoga Vinyasa",
+            "duration": "15 minutes",
+            "intensity": "Low (RPE: 3)",
+            "mets": 3.5,
+            "calories_burned": "15 kcal"
+          }
+        ],
+        "fitt_principle_summary": {
+          "frequency": "1 session (e.g., Wednesday, 6:30 PM)",
+          "intensity": "Moderate (RPE: 6, Target HR: 60-70% of MHR)",
+          "time": "45 minutes total",
+          "type": "Cardio and flexibility"
+        },
+        "total_day_summary": {
+          "total_mets": 16.5,
+          "total_calories_burned": "112 kcal"
+        }
+      },
+      {
+        "day": "Day 3",
+        "workout_name": "Strength Training & Cardiovascular Endurance",
+        "focus": "Upper-body strength, light cardio",
+        "location": "Gym",
+        "time": "Friday, 6:30 PM",
+        "warm_up": {
+          "duration": "10 minutes",
+          "exercise_type": "Treadmill Walking at 4 mph",
+          "intensity": "Low (RPE: 3)",
+          "mets": 5,
+          "calories_burned": "21 kcal",
+          "target_heart_rate": "50-60% of MHR"
+        },
+        "strength_exercises": [
+          {
+            "exercise": "Dumbbell Shoulder Press",
+            "reps": "4 sets x 10 reps",
+            "intensity": "Moderate (RPE: 6)",
+            "mets": 5,
+            "calories_burned": "60 kcal",
+            "thr": "60-70% of MHR",
+            "muscle_groups": ["Shoulders", "Triceps"]
+          },
+          {
+            "exercise": "Barbell Bicep Curls",
+            "reps": "4 sets x 10 reps",
+            "intensity": "Moderate (RPE: 6)",
+            "mets": 4.5,
+            "calories_burned": "50 kcal",
+            "thr": "60-70% of MHR",
+            "muscle_groups": ["Biceps"]
+          },
+          {
+            "exercise": "Tricep Pushdowns (Cable)",
+            "reps": "4 sets x 10 reps",
+            "intensity": "Moderate (RPE: 6)",
+            "mets": 4.5,
+            "calories_burned": "50 kcal",
+            "thr": "60-70% of MHR",
+            "muscle_groups": ["Triceps"]
+          }
+        ],
+        "cardio": {
+          "exercise_type": "Stationary Bike",
+          "intensity": "Moderate (RPE: 6)",
+          "mets": 4,
+          "calories_burned": "50 kcal"
+        },
+        "fitt_principle_summary": {
+          "frequency": "1 session (e.g., Friday, 6:30 PM)",
+          "intensity": "Moderate (RPE: 6, Target HR: 60-70% of MHR)",
+          "time": "45 minutes total",
+          "type": "Upper-body strength training with light cardio"
+        },
+        "total_day_summary": {
+          "total_mets": 23,
+          "total_calories_burned": "231 kcal"
+        }
+      },
+      {
+        "day": "Day 4",
+        "workout_name": "High-Intensity Interval Training (HIIT)",
+        "focus": "Cardiovascular endurance, muscle endurance",
+        "location": "Home",
+        "time": "Sunday, 6:30 PM",
+        "warm_up": {
+          "duration": "10 minutes",
+          "exercise_type": "Jump Rope",
+          "intensity": "Low (RPE: 3)",
+          "mets": 8,
+          "calories_burned": "39 kcal",
+          "target_heart_rate": "50-60% of MHR"
+        },
+        "hiit_exercises": [
+          {
+            "exercise": "Burpees",
+            "duration": "10 minutes",
+            "intensity": "High (RPE: 8)",
+            "mets": 10,
+            "calories_burned": "97 kcal",
+            "thr": "70-80% of MHR"
+          },
+          {
+            "exercise": "Mountain Climbers",
+            "duration": "10 minutes",
+            "intensity": "High (RPE: 8)",
+            "mets": 9,
+            "calories_burned": "88 kcal",
+            "thr": "70-80% of MHR"
+          }
+        ],
+        "cool_down": {
+          "duration": "5 minutes",
+          "exercise_type": "Stretching",
+          "intensity": "Low (RPE: 2)",
+          "mets": 2.5,
+          "calories_burned": "5 kcal",
+          "target_heart_rate": "50-60% of MHR"
+        },
+        "fitt_principle_summary": {
+          "frequency": "1 session (e.g., Sunday, 6:30 PM)",
+          "intensity": "High (RPE: 8, Target HR: 70-80% of MHR)",
+          "time": "45 minutes total",
+          "type": "High-Intensity Interval Training"
+        },
+        "total_day_summary": {
+          "total_mets": 29.5,
+          "total_calories_burned": "229 kcal"
+        }
+      }
+    ],
+    "target_heart_rate": {
+      "karvonen_formula": {
+        "formula": "THR = (MHR - RHR) × Intensity + RHR",
+        "mhr": "220 - 24 = 196 bpm",
+        "rhr": "108 bpm",
+        "example_calculation": "For 70% Intensity: THR = (196 - 108) × 0.7 + 108 = 160 bpm"
+      }
+    },
+    "motivation_and_time_management": {
+      "motivation_tip": "Consider joining fitness groups or classes to stay consistent and engaged.",
+      "time_management": "Incorporate quick, efficient routines such as HIIT for maximum results with limited time."
+    },
+    "pain_and_injury_considerations": {
+      "details": "Ensure proper warm-ups and avoid movements that could aggravate any previous injuries, especially in the head or neck region."
+    },
+    "overall_summary": {
+      "total_calories_burned": "823 kcal",
+      "total_mets": "93.5 METs",
+      "summary": "By following this structured workout plan, you can achieve balanced strength, endurance, and flexibility while managing time effectively."
+    }
+  }
+}
+```
